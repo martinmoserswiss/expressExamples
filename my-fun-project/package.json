@@ -1,0 +1,9 @@
+{
+  "name": "my-fun-project",
+  "author": "Martin Moser",
+  "private": true,
+  "version": "0.1",
+  "dependencies": {
+    "mustache": "^2.2.1"
+  }
+}
